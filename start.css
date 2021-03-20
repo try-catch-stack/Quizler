@@ -212,3 +212,35 @@ hr.style-one {
   background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
   background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
   }
+
+  .bottom-container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block;
+    text-align: center;
+    background-color: #393e46;
+    padding: 20px 0 20px;
+  }
+  .footer-link{
+    font-size: 1rem;
+  
+  }
+  .copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 10px 0;
+  }
+  a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.made-by{
+  font-family: 'Akaya Telivigala', cursive;
+  color: #EAF6F6;
+
+}
